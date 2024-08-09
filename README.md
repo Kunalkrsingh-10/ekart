@@ -1,2 +1,3 @@
 # ekart 
-This is frontend website ,where we have to resell our old shoes and clothes 
+This is a front-end website where we will sell our old shoes and clothes. 
+
